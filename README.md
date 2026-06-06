@@ -1,3 +1,4 @@
+````markdown
 <!-- =========================
         🚀 ANIMATED GITHUB PROFILE
 ========================= -->
@@ -11,14 +12,17 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Applications;Salesforce+Developer+%7C+Full+Stack+Engineer;Machine+Learning+%7C+Generative+AI;Open+Source+Contributor;Always+Learning+New+Things+🚀" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Applications;Salesforce+Developer+%7C+Full+Stack+Engineer;Machine+Learning+%7C+Generative+AI;Open+Source+Contributor;Always+Learning+New+Things+🚀"
+  />
 </p>
 
 ---
 
-````markdown
+<table>
+<tr>
 
-
+<td width="60%" valign="top">
 
 # 💫 About Me
 
@@ -56,12 +60,6 @@ width="100%"
 
 </tr>
 </table>
-
----
-
-```
-```
-
 
 ---
 
@@ -143,22 +141,21 @@ width="100%"
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🛒 ShopSphere | Salesforce Amazon Clone | Salesforce, Apex |
-| 🌦 WeatherNow | Real-Time Weather App | HTML, CSS, JS |
-| 🤖 Bone Fracture Detection | AI Medical Imaging Project | Python, CNN |
-
+| Project                    | Description                | Tech             |
+| -------------------------- | -------------------------- | ---------------- |
+| 🛒 ShopSphere              | Salesforce Amazon Clone    | Salesforce, Apex |
+| 🌦 WeatherNow              | Real-Time Weather App      | HTML, CSS, JS    |
+| 🤖 Bone Fracture Detection | AI Medical Imaging Project | Python, CNN      |
 
 ---
 
 # 🏆 Certifications
 
-🏅 Salesforce Certified Platform 1 Developer  
-🏅 Salesforce Certified Omni Studio Developer 
-🏅 IBM Artificial Intelligence Internship 
+🏅 Salesforce Certified Platform Developer 1
+🏅 Salesforce Certified OmniStudio Developer
+🏅 IBM Artificial Intelligence Internship
 🏅 Python Programming
-🏅 Full Stack Development 
+🏅 Full Stack Development
 
 ---
 
@@ -189,3 +186,4 @@ width="100%"
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=120&section=footer"/>
+```
