@@ -17,13 +17,7 @@
 ---
 
 ````markdown
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Applications;Salesforce+Developer+%7C+Full+Stack+Engineer;Machine+Learning+%7C+Generative+AI;Open+Source+Contributor;Always+Learning+New+Things+🚀"
-  />
-</p>
 
----
 
 <table>
 <tr>
