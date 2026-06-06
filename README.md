@@ -16,7 +16,19 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+````markdown
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Applications;Salesforce+Developer+%7C+Full+Stack+Engineer;Machine+Learning+%7C+Generative+AI;Open+Source+Contributor;Always+Learning+New+Things+🚀"
+  />
+</p>
+
+---
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
 
 # 💫 About Me
 
@@ -39,9 +51,27 @@ currently_learning:
   - Cloud Technologies
 
 fun_fact: "I turn ideas into scalable applications 🚀"
+````
+
+</td>
+
+<td width="40%" align="center">
+
+<img 
+src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" 
+width="100%" 
+/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+```
 ```
 
-<br>
 
 ---
 
