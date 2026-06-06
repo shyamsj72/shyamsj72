@@ -134,10 +134,11 @@ fun_fact: "I turn ideas into scalable applications 🚀"
 
 # 🏆 Certifications
 
-🏅 Google AI Fundamentals  
-🏅 AI Fluency: Framework & Foundation  
-🏅 Salesforce Developer Projects  
-🏅 Full Stack Development  
+🏅 Salesforce Certified Platform 1 Developer  
+🏅 Salesforce Certified Omni Studio Developer 
+🏅 IBM Artificial Intelligence Internship 
+🏅 Python Programming
+🏅 Full Stack Development 
 
 ---
 
