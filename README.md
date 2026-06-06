@@ -1,4 +1,3 @@
-
 <!-- =========================
         🚀 ANIMATED GITHUB PROFILE
 ========================= -->
@@ -11,10 +10,9 @@
 🚀 Salesforce Developer • Python Full-Stack Engineer • AI/ML Enthusiast
 </h3>
 
+<!-- FIX 1: Emoji URL-encoded (%F0%9F%9A%80) | FIX 2: Removed stray extra /> on separate line -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Applications;Salesforce+Developer+%7C+Full+Stack+Engineer;Machine+Learning+%7C+Generative+AI;Open+Source+Contributor;Always+Learning+New+Things+🚀"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Applications;Salesforce+Developer+%7C+Full+Stack+Engineer;Machine+Learning+%7C+Generative+AI;Open+Source+Contributor;Always+Learning+New+Things+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -45,15 +43,15 @@ currently_learning:
   - Cloud Technologies
 
 fun_fact: "I turn ideas into scalable applications 🚀"
-````
+```
 
 </td>
 
 <td width="40%" align="center">
 
-<img 
-src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" 
-width="100%" 
+<img
+src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+width="100%"
 />
 
 </td>
@@ -114,14 +112,21 @@ width="100%"
 # 📊 GitHub Stats
 
 <p align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shyamsj72&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shyamsj72&theme=tokyonight" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsj72&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyamsj72&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shyamsj72&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shyamsj72&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shyamsj72&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
+
 
 # 🔥 GitHub Streak
 
@@ -151,11 +156,11 @@ width="100%"
 
 # 🏆 Certifications
 
-🏅 Salesforce Certified Platform Developer 1
-🏅 Salesforce Certified OmniStudio Developer
-🏅 IBM Artificial Intelligence Internship
-🏅 Python Programming
-🏅 Full Stack Development
+🏅 Salesforce Certified Platform Developer 1  
+🏅 Salesforce Certified OmniStudio Developer  
+🏅 IBM Artificial Intelligence Internship  
+🏅 Python Programming  
+🏅 Full Stack Development  
 
 ---
 
@@ -186,4 +191,3 @@ width="100%"
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=120&section=footer"/>
-```
